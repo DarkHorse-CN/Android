@@ -1,0 +1,4 @@
+int string home_error 0x0
+int string home_loading 0x0
+int string home_retry 0x0
+int string home_title 0x0

@@ -1,0 +1,6 @@
+com.darkhorse.android.feature.login
+string login_button
+string login_error
+string login_password
+string login_title
+string login_username

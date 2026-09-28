@@ -1,0 +1,9 @@
+com.darkhorse.android.core.image.core-image-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/generated/res/pngs/debug
+com.darkhorse.android.core.image.core-image-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/generated/updated_navigation_xml/debug
+com.darkhorse.android.core.image.core-image-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.darkhorse.android.core.image.core-image-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.darkhorse.android.core.image.core-image-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/intermediates/merged_res/debug/mergeDebugResources
+com.darkhorse.android.core.image.core-image-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/build/intermediates/packaged_res/debug/packageDebugResources
+com.darkhorse.android.core.image.core-image-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/src/debug/res
+com.darkhorse.android.core.image.core-image-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-image/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle

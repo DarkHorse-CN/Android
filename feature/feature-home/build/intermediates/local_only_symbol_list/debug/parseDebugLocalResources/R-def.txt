@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+string home_error
+string home_loading
+string home_retry
+string home_title

@@ -1,0 +1,5 @@
+int string login_button 0x0
+int string login_error 0x0
+int string login_password 0x0
+int string login_title 0x0
+int string login_username 0x0

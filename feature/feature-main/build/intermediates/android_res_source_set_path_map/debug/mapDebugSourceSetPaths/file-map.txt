@@ -1,0 +1,9 @@
+com.darkhorse.android.feature.main.feature-main-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/generated/res/pngs/debug
+com.darkhorse.android.feature.main.feature-main-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/generated/updated_navigation_xml/debug
+com.darkhorse.android.feature.main.feature-main-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.darkhorse.android.feature.main.feature-main-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.darkhorse.android.feature.main.feature-main-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/intermediates/merged_res/debug/mergeDebugResources
+com.darkhorse.android.feature.main.feature-main-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/build/intermediates/packaged_res/debug/packageDebugResources
+com.darkhorse.android.feature.main.feature-main-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/src/debug/res
+com.darkhorse.android.feature.main.feature-main-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-main/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle

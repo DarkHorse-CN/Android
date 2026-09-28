@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/build-logic" name="build-logic">
+                <projects>
+                  <project path="$PROJECT_DIR$/build-logic" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/build-logic" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/core-analytics" />
+            <option value="$PROJECT_DIR$/core/core-common" />
+            <option value="$PROJECT_DIR$/core/core-image" />
+            <option value="$PROJECT_DIR$/core/core-log" />
+            <option value="$PROJECT_DIR$/core/core-network" />
+            <option value="$PROJECT_DIR$/core/core-network-compiler" />
+            <option value="$PROJECT_DIR$/core/core-notification" />
+            <option value="$PROJECT_DIR$/core/core-permission" />
+            <option value="$PROJECT_DIR$/core/core-push" />
+            <option value="$PROJECT_DIR$/core/core-router" />
+            <option value="$PROJECT_DIR$/core/core-storage" />
+            <option value="$PROJECT_DIR$/core/core-ui" />
+            <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature/feature-home" />
+            <option value="$PROJECT_DIR$/feature/feature-login" />
+            <option value="$PROJECT_DIR$/feature/feature-main" />
+            <option value="$PROJECT_DIR$/feature/feature-onboarding" />
+            <option value="$PROJECT_DIR$/feature/feature-profile" />
+            <option value="$PROJECT_DIR$/feature/feature-settings" />
+            <option value="$PROJECT_DIR$/feature/feature-splash" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/lib/lib-base" />
+            <option value="$PROJECT_DIR$/lib/lib-base/base-util" />
+            <option value="$PROJECT_DIR$/lib/lib-log" />
+            <option value="$PROJECT_DIR$/lib/lib-network" />
+            <option value="$PROJECT_DIR$/lib/lib-permission" />
+            <option value="$PROJECT_DIR$/lib/lib-router" />
+            <option value="$PROJECT_DIR$/lib/lib-storage" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

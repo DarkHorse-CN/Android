@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Splash 启动背景 — 透明背景，消除冷启动白屏
+  窗口完全透明，让 SplashActivity 的 Compose UI 渲染后直接显示
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent" />
+</shape>

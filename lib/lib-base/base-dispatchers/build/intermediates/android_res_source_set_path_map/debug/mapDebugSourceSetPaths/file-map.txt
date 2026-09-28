@@ -1,0 +1,9 @@
+com.example.myapp.libbase.dispatchers.base-dispatchers-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/generated/res/pngs/debug
+com.example.myapp.libbase.dispatchers.base-dispatchers-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/generated/updated_navigation_xml/debug
+com.example.myapp.libbase.dispatchers.base-dispatchers-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.myapp.libbase.dispatchers.base-dispatchers-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.myapp.libbase.dispatchers.base-dispatchers-debug-4 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.myapp.libbase.dispatchers.base-dispatchers-debug-5 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.myapp.libbase.dispatchers.base-dispatchers-debug-6 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/src/debug/res
+com.example.myapp.libbase.dispatchers.base-dispatchers-main-7 /Users/darkhorse/Desktop/AI/workspace/Develop/Android/App/lib/lib-base/base-dispatchers/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle

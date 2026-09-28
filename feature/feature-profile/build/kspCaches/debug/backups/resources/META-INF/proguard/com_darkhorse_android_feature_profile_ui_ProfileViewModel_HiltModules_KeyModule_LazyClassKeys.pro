@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.darkhorse.android.feature.profile.ui.ProfileViewModel

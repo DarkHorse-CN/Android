@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:windowSoftInputMode="adjustResize"
+        android:theme="@style/Theme.App">
+
+        <activity
+            android:name="com.darkhorse.android.feature.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- App Startup 初始化器配置
+             通过 tools:node="merge" 确保 startup-runtime 的 InitializationProvider 被正确合并 -->
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge">
+            <!-- 按依赖顺序声明初始化器
+                 注意：tools:node="remove" 仅调试时移除以加快冷启动 -->
+            <meta-data
+                android:name="com.darkhorse.android.app.initializer.CrashHandlerInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="com.darkhorse.android.app.initializer.AnalyticsInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="com.darkhorse.android.app.initializer.WorkManagerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+    </application>
+
+</manifest>

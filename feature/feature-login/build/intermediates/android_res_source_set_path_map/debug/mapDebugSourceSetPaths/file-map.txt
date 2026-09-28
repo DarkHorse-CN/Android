@@ -1,0 +1,9 @@
+com.darkhorse.android.feature.login.feature-login-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/generated/res/pngs/debug
+com.darkhorse.android.feature.login.feature-login-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/generated/updated_navigation_xml/debug
+com.darkhorse.android.feature.login.feature-login-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.darkhorse.android.feature.login.feature-login-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.darkhorse.android.feature.login.feature-login-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/intermediates/merged_res/debug/mergeDebugResources
+com.darkhorse.android.feature.login.feature-login-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/build/intermediates/packaged_res/debug/packageDebugResources
+com.darkhorse.android.feature.login.feature-login-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/src/debug/res
+com.darkhorse.android.feature.login.feature-login-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/feature/feature-login/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle

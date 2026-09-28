@@ -1,0 +1,9 @@
+com.darkhorse.android.lib.network.lib-network-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/generated/res/pngs/debug
+com.darkhorse.android.lib.network.lib-network-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/generated/updated_navigation_xml/debug
+com.darkhorse.android.lib.network.lib-network-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.darkhorse.android.lib.network.lib-network-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.darkhorse.android.lib.network.lib-network-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/intermediates/merged_res/debug/mergeDebugResources
+com.darkhorse.android.lib.network.lib-network-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/build/intermediates/packaged_res/debug/packageDebugResources
+com.darkhorse.android.lib.network.lib-network-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/src/debug/res
+com.darkhorse.android.lib.network.lib-network-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-network/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle

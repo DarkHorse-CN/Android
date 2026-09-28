@@ -1,0 +1,5 @@
+com.darkhorse.android.feature.home
+string home_error
+string home_loading
+string home_retry
+string home_title

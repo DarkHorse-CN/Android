@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml:2:13-83
+INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml:2:13-83
+	package
+		INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml
+	xmlns:android
+		ADDED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml:2:23-81
+uses-sdk
+INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml reason: use-sdk injection requested
+INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml
+INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml
+	android:targetSdkVersion
+		INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml
+	android:minSdkVersion
+		INJECTED from /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-router/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13623193463582171274.xml

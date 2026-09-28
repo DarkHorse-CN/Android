@@ -1,0 +1,9 @@
+com.darkhorse.android.lib.storage.lib-storage-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/generated/res/pngs/debug
+com.darkhorse.android.lib.storage.lib-storage-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/generated/updated_navigation_xml/debug
+com.darkhorse.android.lib.storage.lib-storage-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.darkhorse.android.lib.storage.lib-storage-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.darkhorse.android.lib.storage.lib-storage-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/intermediates/merged_res/debug/mergeDebugResources
+com.darkhorse.android.lib.storage.lib-storage-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/build/intermediates/packaged_res/debug/packageDebugResources
+com.darkhorse.android.lib.storage.lib-storage-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/src/debug/res
+com.darkhorse.android.lib.storage.lib-storage-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/lib/lib-storage/src/main/res
+gradleHome-0 /Users/darkhorse/.gradle
