@@ -1,9 +1,0 @@
-com.darkhorse.android.core.network.core-network-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/generated/res/pngs/debug
-com.darkhorse.android.core.network.core-network-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/generated/updated_navigation_xml/debug
-com.darkhorse.android.core.network.core-network-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.darkhorse.android.core.network.core-network-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.darkhorse.android.core.network.core-network-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/intermediates/merged_res/debug/mergeDebugResources
-com.darkhorse.android.core.network.core-network-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/build/intermediates/packaged_res/debug/packageDebugResources
-com.darkhorse.android.core.network.core-network-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/src/debug/res
-com.darkhorse.android.core.network.core-network-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-network/src/main/res
-gradleHome-0 /Users/darkhorse/.gradle

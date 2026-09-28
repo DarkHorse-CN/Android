@@ -1,9 +1,0 @@
-com.darkhorse.android.core.permission.core-permission-pngs-0 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/generated/res/pngs/debug
-com.darkhorse.android.core.permission.core-permission-updated_navigation_xml-1 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/generated/updated_navigation_xml/debug
-com.darkhorse.android.core.permission.core-permission-mergeDebugResources-2 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.darkhorse.android.core.permission.core-permission-mergeDebugResources-3 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.darkhorse.android.core.permission.core-permission-debug-4 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/intermediates/merged_res/debug/mergeDebugResources
-com.darkhorse.android.core.permission.core-permission-debug-5 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/build/intermediates/packaged_res/debug/packageDebugResources
-com.darkhorse.android.core.permission.core-permission-debug-6 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/src/debug/res
-com.darkhorse.android.core.permission.core-permission-main-7 /Users/darkhorse/Desktop/AI/workspace/Development/Android/core/core-permission/src/main/res
-gradleHome-0 /Users/darkhorse/.gradle
